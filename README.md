@@ -1,4 +1,4 @@
-# Jogo de Pedra, Papel e Tesoura em Flutter
+# Jokenpo
 
 Pedra, Papel e Tesoura desenvolvido em Flutter.
 
