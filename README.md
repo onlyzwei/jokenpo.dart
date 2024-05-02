@@ -14,5 +14,5 @@ cd nome-do-repositorio
 flutter run
 ```
 <p align="center">
-  <img src="assets/jokenpo.gif" alt="" />
+  <img src="assets/jokenpo.gif" alt="" width="300"/>
 </p>
