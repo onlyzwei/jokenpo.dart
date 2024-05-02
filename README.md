@@ -13,9 +13,6 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
 flutter run
 ```
-
-## Capturas de Tela
-
 <p align="center">
   <img src="assets/jokenpo.gif" alt="" />
 </p>
